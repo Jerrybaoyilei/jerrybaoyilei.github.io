@@ -3,7 +3,7 @@
   - Full Stack reproduction of Canvas, an online learning management system that is used by students at Northeastern University for courseworks
   - **Tech stacks used**: HTML, CSS, JavaScript, React.js, Bootstrap, Express.js, Node.js, MongoDB
   - Live preview of the project can be found [here](https://vermillion-basbousa-8fc6fb.netlify.app)
-- [PhotoFinder: Photography Spot Exploration Website](https://github.com/Jerrybaoyilei/PhotoFinder/)**in progress**
+- [PhotoFinder: Photography Spot Exploration Website](https://github.com/Jerrybaoyilei/PhotoFinder/) (**in progress**)
   - Full Stack web development project for providing information vital to taking a nice photo, such as lighting conditions, location's popularity, special weather events
   - **Tech stacks used**: HTML, CSS, JavaScript, React.js, Bootstrap, Express.js, Node.js, MongoDB
 - [Formula Data: MySQL With Java GUI](https://github.com/Jerrybaoyilei/formula1)
