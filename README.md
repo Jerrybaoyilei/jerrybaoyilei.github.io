@@ -1,4 +1,12 @@
-# 👨‍💻 Projects
+# 🙋‍♂️ About Me
+
+I am currently a MSCS student at Northeastern University. I obtained my BA in Applied Mathematics and Economics from Colby College.
+Why did I switch to CS, you might ask?
+During my last year at Colby College, I gradually realized that I am more into the "problem-solving" part of Economics than the abstract theories when I was writing my honors thesis. That was also the inherent reason behind me picking up Applied Mathematics as my second major. Also, I got a bit frustrated with the detachment between abstract models and real-world economic scenarios -- a "we know the problems, we know the solution, yet problems keep coming back" conundrum.
+Graduated during the peak of COVID-19, I went back home and was lucky enough to work as a product manager intern for the User Digital Products department of NIO, a Chinese electric vehicle startup, even though I had zero tech-related background. The company culture was nothing like the banks and the brokerage firms I previously interned at, and I immediately fell in love with it. It was almost like going back to college, catching bugs and developing new features with my colleagues and leaving the office late at night, exhausted but with a smile on my face. I envied the software engineers on the team, working on projects that have a direct and positive impact on users' experience with NIO's cars and software. During those 4 months, I didn't need to convince myself too much that this type of creative and problem solving work is what I want to do for my life; the joy I felt, the other time it hit me was when I was out in the wild taking stunning photos.
+In retrospect, I don't think I really "switched" -- I've always loved problem solving and creating, only that now I can't be happier solving problems that are close to real life and creating things that has a direct impact on my life, and hopefully others' lives as well. 
+
+## 👨‍💻 Projects
 
 - [Kanbas: Full Stack Online Course System](https://github.com/Jerrybaoyilei/kanbas-react-web-app) **(in progress)**
   - Full Stack reproduction of Canvas, an online learning management system that is used by students at Northeastern University for courseworks
