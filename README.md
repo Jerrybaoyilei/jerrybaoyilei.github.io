@@ -1,4 +1,4 @@
-## 👨‍💻Projects
+## 👨‍💻 Projects
 
 - [Kanbas: Full Stack Online Course System](https://github.com/Jerrybaoyilei/kanbas-react-web-app) **(in progress)**
   - Full Stack reproduction of Canvas, an online learning management system that is used by students at Northeastern University for courseworks
@@ -24,9 +24,9 @@
   - Implemented GUI using Java Swing. Utilized CLI to read input file and select output format between Java GUI and html output. Tested the application using unit test framework
   - **Tech stacks used**: Java
 
-## :art:Away from the computers
+## 🎨 Away from the computers
 
-- :camera: Landscape photographer (check out my shots [here](https://www.instagram.com/jerrysrandomsnaps/))
-- :tennis: Recreational tennis player
-- :runner: Avid runner
-- :rowboat: Rower for 2 years on Colby College Men's Rowing Team
+- 📷 Landscape photographer (check out my shots [here](https://www.instagram.com/jerrysrandomsnaps/))
+- 🎾 Recreational tennis player
+- 🏃 Avid runner
+- 🚣 Rower for 2 years on Colby College Men's Rowing Team
