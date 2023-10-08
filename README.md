@@ -1,4 +1,4 @@
-## :technologist: Projects
+## 👨‍💻Projects
 
 - [Kanbas: Full Stack Online Course System](https://github.com/Jerrybaoyilei/kanbas-react-web-app) **(in progress)**
   - Full Stack reproduction of Canvas, an online learning management system that is used by students at Northeastern University for courseworks
