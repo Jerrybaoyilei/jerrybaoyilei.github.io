@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Yilei (Jerry) Bao
-description: Welcome to my online space! Currently a MSCS student at Northeastern University.
+description: Welcome to my online space!
 logo: /assets/img/avatar.jpg
