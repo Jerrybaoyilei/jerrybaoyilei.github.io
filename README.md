@@ -1,4 +1,5 @@
-# Projects
+## :technologist: Projects
+
 - [Kanbas: Full Stack Online Course System](https://github.com/Jerrybaoyilei/kanbas-react-web-app) **(in progress)**
   - Full Stack reproduction of Canvas, an online learning management system that is used by students at Northeastern University for courseworks
   - **Tech stacks used**: HTML, CSS, JavaScript, React.js, Bootstrap, Express.js, Node.js, MongoDB
@@ -18,3 +19,14 @@
   - Worked solely on implementing Spotify's API and Genius.com's API, enabling users to import playlists (and search for lyrics automatically) and search lyrics
   - **Tech stacks used**: Java, Google Firebase
   - A brief video demonstration of my work in the project can be found [here](https://youtu.be/kulE7RR2NaU)
+- [Shape to Pic: Java Swing Application](https://github.com/Jerrybaoyilei/hw8)
+  - Designed a text to graph application with a range of commands to create and move shapes and take screenshots. Implemented design using MVC design pattern
+  - Implemented GUI using Java Swing. Utilized CLI to read input file and select output format between Java GUI and html output. Tested the application using unit test framework
+  - **Tech stacks used**: Java
+
+## :art: Away from the computers
+
+- :camera: Landscape photographer (check out my shots [here](https://www.instagram.com/jerrysrandomsnaps/))
+- :tennis: Recreational tennis player
+- :runner: Avid runner
+- :rowboat: Rower for 2 years on Colby College Men's Rowing Team
