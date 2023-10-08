@@ -24,7 +24,7 @@
   - Implemented GUI using Java Swing. Utilized CLI to read input file and select output format between Java GUI and html output. Tested the application using unit test framework
   - **Tech stacks used**: Java
 
-## :art: Away from the computers
+## :art:Away from the computers
 
 - :camera: Landscape photographer (check out my shots [here](https://www.instagram.com/jerrysrandomsnaps/))
 - :tennis: Recreational tennis player
